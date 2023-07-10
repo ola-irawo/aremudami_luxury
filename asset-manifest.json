@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aremudami_luxury/static/css/main.9a7e6786.css",
-    "main.js": "/aremudami_luxury/static/js/main.11aabf35.js",
+    "main.css": "/aremudami_luxury/static/css/main.fb2313a6.css",
+    "main.js": "/aremudami_luxury/static/js/main.febb656d.js",
     "static/js/787.28cb0dcd.chunk.js": "/aremudami_luxury/static/js/787.28cb0dcd.chunk.js",
     "static/media/aboutImage2.jpg": "/aremudami_luxury/static/media/aboutImage2.6791d1c2599ed2138162.jpg",
     "static/media/contact5.jpg": "/aremudami_luxury/static/media/contact5.68cf85ba748b10f7a562.jpg",
@@ -11,12 +11,12 @@
     "static/media/aboutfounder.jpeg": "/aremudami_luxury/static/media/aboutfounder.068305375f8976a634f2.jpeg",
     "static/media/founder3.jpeg": "/aremudami_luxury/static/media/founder3.7a5225849cdef1962767.jpeg",
     "index.html": "/aremudami_luxury/index.html",
-    "main.9a7e6786.css.map": "/aremudami_luxury/static/css/main.9a7e6786.css.map",
-    "main.11aabf35.js.map": "/aremudami_luxury/static/js/main.11aabf35.js.map",
+    "main.fb2313a6.css.map": "/aremudami_luxury/static/css/main.fb2313a6.css.map",
+    "main.febb656d.js.map": "/aremudami_luxury/static/js/main.febb656d.js.map",
     "787.28cb0dcd.chunk.js.map": "/aremudami_luxury/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a7e6786.css",
-    "static/js/main.11aabf35.js"
+    "static/css/main.fb2313a6.css",
+    "static/js/main.febb656d.js"
   ]
 }
